@@ -1,0 +1,72 @@
+class Category_705 {
+class vil_G3SG1 {
+type = "trade_weapons";
+buy[] = {2,"ItemGoldBar10oz"};
+sell[] = {1,"ItemGoldBar10oz"};
+};
+class vil_G3sg1b {
+type = "trade_weapons";
+buy[] = {2,"ItemGoldBar10oz"};
+sell[] = {1,"ItemGoldBar10oz"};
+};
+class vil_AG3 {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_AG3EOT {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3a2 {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3a3 {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3a4 {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3a4b {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3an {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3anb {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3TGS {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3TGSb {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3ZF {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+class vil_G3zfb {
+type = "trade_weapons";
+buy[] = {1,"ItemGoldBar10oz"};
+sell[] = {5,"ItemGoldBar"};
+};
+};
