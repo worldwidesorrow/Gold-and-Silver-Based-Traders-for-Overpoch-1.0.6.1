@@ -1,12 +1,12 @@
 # Gold-and-Silver-Based-Traders-for-Overpoch-1.0.6.1
 
-# Install Instructions
+Install Instructions
 
-* Replace the existing server_traders.sqf with the one from the download.
+1. Replace the existing server_traders.sqf with the one from the download.
 
-* Copy over the dayz_code folder or if you already have it, move the files into the appropriate directory.
+2. Copy over the dayz_code folder or if you already have it, move the files into the appropriate directory.
 
-*Find this line in your description.ext
+3. Find this line in your description.ext
 ```sqf
 #include "\z\addonsdayz_code\Configs\CfgServerTrader.hpp"
 ```
