@@ -106,29 +106,4 @@ class Category_679 {
 		buy[] = {1,"ItemGoldBar"};
 		sell[] = {1,"ItemGoldBar"};
 	};
-	class ChainSaw {
-		type = "trade_weapons";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
-	};
-	class ChainSawB {
-		type = "trade_weapons";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
-	};
-	class ChainSawG {
-		type = "trade_weapons";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
-	};
-	class ChainSawP {
-		type = "trade_weapons";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
-	};
-	class ChainSawR {
-		type = "trade_weapons";
-		buy[] = {4,"ItemGoldBar"};
-		sell[] = {1,"ItemGoldBar"};
-	};
 };
