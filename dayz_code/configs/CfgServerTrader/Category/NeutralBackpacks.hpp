@@ -54,4 +54,9 @@ class Category_538 {
 		buy[] = {1,"ItemGoldBar10oz"};
 		sell[] = {5,"ItemGoldBar"};
 	};
+	class DZ_LargeGunBag_EP1 {
+		type = "trade_backpacks";
+		buy[] = {12,"ItemGoldBar"};
+		sell[] = {6,"ItemGoldBar"};
+	};
 };

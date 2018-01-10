@@ -92,19 +92,19 @@ menu_RU_WorkWoman5 = [
 ];
 // Neutral Building/Parts 1
 menu_TK_GUE_Soldier_5_EP1 = [
-	[["Building Supplies",678],["Tools",679],["Vehicle Parts",677]],
+	[["Building Supplies",678],["Chainsaws",676],["Tools",679],["Vehicle Parts",677]],
 	[],
 	"neutral"
 ];
 // Friendly Building/Parts 2
 menu_Woodlander1 = [
-	[["Building Supplies",678],["Tools",679],["Vehicle Parts",677]],
+	[["Building Supplies",678],["Chainsaws",676],["Tools",679],["Vehicle Parts",677]],
 	[],
 	"neutral"
 ];
 // Neutral Building/Parts 3
 menu_Woodlander3 = [
-	[["Building Supplies",678],["Tools",679],["Vehicle Parts",677]],
+	[["Building Supplies",678],["Chainsaws",676],["Tools",679],["Vehicle Parts",677]],
 	[],
 	"neutral"
 ];

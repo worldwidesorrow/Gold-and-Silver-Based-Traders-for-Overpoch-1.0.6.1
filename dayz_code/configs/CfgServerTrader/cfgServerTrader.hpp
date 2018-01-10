@@ -24,6 +24,7 @@ class CfgTraderCategory {
 	#include "Category\NeutralBoatsUnarmed.hpp"
 	#include "Category\NeutralBuildingSupplies.hpp"
 	#include "Category\NeutralBusesandVans.hpp"
+	#include "Category\NeutralChainsaws.hpp"
 	#include "Category\NeutralCargoTrucks.hpp"
 	#include "Category\NeutralChemlitesFlares.hpp"
 	#include "Category\NeutralClothes.hpp"
