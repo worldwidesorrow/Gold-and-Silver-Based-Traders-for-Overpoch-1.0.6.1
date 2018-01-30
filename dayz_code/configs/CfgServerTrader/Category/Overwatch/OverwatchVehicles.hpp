@@ -54,11 +54,6 @@ type = "trade_any_vehicle";
 buy[] = {5,"ItemGoldBar10oz"};
 sell[] = {2,"ItemGoldBar10oz"};
 };
-class policecar {
-type = "trade_any_vehicle";
-buy[] = {3,"ItemGoldBar10oz"};
-sell[] = {1,"ItemGoldBar10oz"};
-};
 class Copcar {
 type = "trade_any_vehicle";
 buy[] = {3,"ItemGoldBar10oz"};
